@@ -1,1 +1,1 @@
-This is a supper important feature that cannot fail
+This is a super important feature that cannot fail
